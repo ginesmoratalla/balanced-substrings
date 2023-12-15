@@ -17,7 +17,6 @@ substring (i.e., one contiguous sequence of its characters) which is. Taking aga
 last non-balanced example, aaAbabABA, the substring going from its fifth to its
 eighth letters (abAB) is balanced, so that [4,7] is a balanced substring of it.
 Similarly for [1,2]. It is easy to check that there are no other balanced substrings.
-
 Note that the definition of a balanced string allows non-alphabet characters: the
 string a5A is balanced and your program should return [0,2] (and not [0,1]!) on it._"
 
