@@ -7,6 +7,7 @@ Coursework for my Advanced Programming module (2nd year Computer Science)
 - Find balanced substrings in set of strings given as input
 - Do so without using loops (making use of functional programming and high order functions/lambdas from JavaScript)
 
+### Balanced Substrings
 Following the Coursework conventions for a balanced substring:
 
 "_A non-empty ASCII string is called balanced if, for each letter of the English alphabet,
