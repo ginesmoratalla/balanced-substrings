@@ -1,6 +1,6 @@
 /**
  * LZSCC212 - Advanced Programming Coursework 2.
- * Author (student id): 38879816
+ * Author: Gines Moratalla
  * 
  */
 "use strict";
