@@ -1,5 +1,5 @@
 # balanced-substrings
-Balanced Substring finder in JavaScript (Functional Programming JS)
+Balanced Substring finder in JavaScript (Functional Programming nodejs)
 
 Coursework for my Advanced Programming module (2nd year Computer Science)
 
